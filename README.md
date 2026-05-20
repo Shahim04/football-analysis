@@ -1,7 +1,7 @@
 # 📊 Advanced Scouting & Analysis for Mousa Al-Tamari
 
 ## 📌 Project Summary
-# This is a data analysis project that i have worked on it to get a clear insihgts and tactical audit of the Stade Rennais winger Mousa Al-Tamari during the 2025/26 season in Ligue 1 only, using data extracted from 'https://understat.com/' and from 'https://fbref.com/en/', the analysis foucses on the position shiftng and game state contexts.
+# This is a data analysis project that i have worked on it to get a clear insights and tactical audit of the Stade Rennais winger Mousa Al-Tamari during the 2025/26 season in Ligue 1 only, using data extracted from 'https://understat.com/' and from 'https://fbref.com/en/', the analysis foucses on the position shiftng and game state contexts.
 ----
 ## 🛠️ Data Science & Analysis Workflow
 to explore the true tactical profile and to get a clear insights, i executed the following steps in Python:
