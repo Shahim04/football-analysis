@@ -19,4 +19,4 @@ to explore the true tactical profile and to get a clear insights, i executed the
 ## 🚀 How to Run
 1. Clone the repository: `git clone https://github.com/@@@/repo.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Execute the pipeline: `python scripts/python.sr.py`
+3. Execute the pipeline: `python scripts/coding part.ipynb`
