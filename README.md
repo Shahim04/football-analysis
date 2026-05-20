@@ -13,10 +13,10 @@ to explore the true tactical profile and to get a clear insights, i executed the
 ----
 ## 📁 Repository Structure
 - `data/` : structured match-logs xlsx datasets extracted from 'https://understat.com/' and added more data from Fbref.
-- `notebooks_or_scripts/` : Cleaned Python production scripts handling data parsing, filtering, and metric aggregations.
+- `scripts/` : Cleaned Python production scripts handling data parsing, filtering, and metric aggregations.
 - `visualizations/` : Exported performance profiles, trendlines, and distribution charts.
 ----
 ## 🚀 How to Run
-1. Clone the repository: `git clone https://github.com/Shahim04/repo.git`
+1. Clone the repository: `git clone https://github.com/@@@/repo.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Execute the pipeline: `python notebooks_or_scripts/python.sr.py`
+3. Execute the pipeline: `python scripts/python.sr.py`
