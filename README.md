@@ -12,7 +12,7 @@ to explore the true tactical profile and to get a clear insights, i executed the
 5. Conducted a comparative variance analysis to handle unequal sample sizes. By executing median scripts, I successfully muted single-game outlier distortions to reveal his true match-to-match performance floor.
 ----
 ## 📁 Repository Structure
-- `data/` : structured match-logs xlsx datasets extracted from 'https://understat.com/' and added more data from Fbref.
+- `data/` : structured match-logs xlsx datasets extracted from understat.com and added more data from Fbref.
 - `scripts/` : Cleaned Python production scripts handling data parsing, filtering, and metric aggregations.
 - `visualizations/` : Exported performance profiles, trendlines, and distribution charts.
 ----
